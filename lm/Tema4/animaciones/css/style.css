@@ -1,0 +1,11 @@
+img{
+  width: 200px;
+  animation: myAnimation 2s ease 1s 3 alternate forwards;
+}
+
+@keyframes myAnimation {
+  100% {
+    transform:  rotate(360deg);
+  }
+
+}

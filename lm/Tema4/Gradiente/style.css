@@ -1,0 +1,7 @@
+.myclass{
+  text-align: center;
+  font-size: 5vw;
+  padding: 10vw;
+  border: solid;
+  background: repeating-radial-gradient(grey 20%, white 40%);
+}
