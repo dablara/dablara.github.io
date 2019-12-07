@@ -9,7 +9,7 @@
 
 #img1:hover{
   width: 200px;
-  animation: myAnimation 2s ease 1s 3 alternate forwards;
+  animation: myAnimation 2s ease infinite alternate forwards;
 animation-duration: 3s;
 }
 
