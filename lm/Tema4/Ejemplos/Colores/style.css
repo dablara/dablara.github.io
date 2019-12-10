@@ -1,0 +1,32 @@
+#div1{
+    background-color: #69f0ae;
+    width: 300px;
+}
+
+#div2{
+    background-color: #69f0ae ;
+    border:10px solid;
+    border-color:  #1b5e20;
+    padding:10px;
+    color:#1b5e20 ;
+}
+
+#grancapitan{
+    text-decoration: none;
+    color:#1b5e20 ;
+    border:2px solid;
+    border-color:#b71c1c;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+#grancapitan:hover{
+    background-color: #ce93d8 ;
+    color:#fce4ec;
+    border:2px solid;
+    border-color:#880e4f;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 0px;
+}
