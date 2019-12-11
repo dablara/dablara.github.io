@@ -1,0 +1,11 @@
+• ¿Qué método HTTP se ha utilizado?
+GET
+• ¿Cuál es el lenguaje de la página?
+HTML,PHP,JavaScript
+
+•¿Cuál es el servidor web instalado?
+Apache
+• ¿Qué versión de PHP está utilizando el servidor?
+Apache 2.4.6
+• ¿Qué sistema operativo utiliza el servidor?
+Windows NT, Gecko,
