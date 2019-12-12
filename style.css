@@ -1,0 +1,12 @@
+div{
+  height: 300px;
+  width: 300px;
+  border:10px solid;
+  color: purple;
+  center;
+
+}
+
+body{
+  background-color: darkgoldenrod;
+}
