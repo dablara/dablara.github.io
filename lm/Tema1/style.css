@@ -5,7 +5,6 @@ body{
 background-color:#F0FFF0;
 }
 
-
 ul{
   list-style-type: none;
   margin: 0;
@@ -24,7 +23,7 @@ li:hover{
   color: rgb(87, 7, 101) !important;
  box-shadow: 0 4px 16px rgb(87, 7, 101);
  transition: all 0.5s ease;
- background-color:lightgrey;
+
 }
 
 

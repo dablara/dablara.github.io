@@ -1,6 +1,8 @@
 body{
+  /*
   background-image: url(wall.jpg);
-
+*/
+background-color:#F0FFF0;
 }
 
 ul{
@@ -18,9 +20,9 @@ li {
 }
 
 li:hover{
-  color: rgba(150, 125, 255, 1) !important;
- box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
- transition: all 0.2s ease;
+  color: rgb(87, 7, 101) !important;
+ box-shadow: 0 4px 16px rgb(87, 7, 101);
+ transition: all 2.0s ease;
 
 }
 
@@ -33,10 +35,10 @@ a {
 p{
   text-decoration-color: white;
 }
-
 #imagen:hover{
-width: 50px;
-animation: myAnimation 2s ease infinite alternate forwards;
+  width: 95px;
+  height: 95px;
+  animation: myAnimation 2s ease infinite alternate forwards;
 animation-duration: 3s;
 }
 
