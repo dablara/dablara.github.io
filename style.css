@@ -1,12 +1,50 @@
-div{
-  height: 300px;
-  width: 300px;
-  border:10px solid;
-  color: purple;
-  center;
+body{
+  background-image: url(wall.jpg);
 
 }
 
-body{
-  background-color: darkgoldenrod;
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+li {
+  display: inline-block;
+  border: 1px solid lightgrey;
+  padding: 5px;
+  background-color:#F0FFFF;
+}
+
+li:hover{
+  color: rgba(150, 125, 255, 1) !important;
+ box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+ transition: all 0.2s ease;
+
+}
+
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+p{
+  text-decoration-color: white;
+}
+
+#imagen:hover{
+  width: 50px;
+  animation: myAnimation 2s ease infinite alternate forwards;
+animation-duration: 3s;
+}
+
+@keyframes myAnimation {
+  100% {
+    transform:  rotate(360deg);
+
+
+  }
+
 }
