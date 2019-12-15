@@ -1,0 +1,57 @@
+body{
+    background-color:#A9A9A9;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+li {
+  display: inline-block;
+  border: 1px solid lightgrey;
+  padding: 5px;
+  background-color:#DCDCDC; 	
+}
+
+li:hover{
+  color: rgb(87, 7, 101) !important;
+ box-shadow: 0 4px 16px rgb(87, 7, 101);
+ transition: all 2.0s ease;
+
+}
+
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+h1 {
+  text-transform: capitalize;
+}
+
+p{
+  text-decoration-color: white;
+}
+
+#texto{
+margin: auto;
+}
+#imagen:hover{
+  width: 95px;
+  height: 95px;
+  animation: myAnimation 2s ease infinite alternate forwards;
+animation-duration: 3s;
+}
+
+@keyframes myAnimation {
+  100% {
+    transform:  rotate(360deg);
+
+
+  }
+
+}

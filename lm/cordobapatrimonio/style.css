@@ -2,7 +2,7 @@ body{
   /*
   background-image: url(wall.jpg);
 */
-background-color:#F0FFF0;
+background-color:#E6E6FA;
 }
 
 
@@ -17,14 +17,12 @@ li {
   display: inline-block;
   border: 1px solid lightgrey;
   padding: 5px;
-  background-color:#F0FFFF;
 }
 
 li:hover{
-  color: rgb(87, 7, 101) !important;
- box-shadow: 0 4px 16px rgb(87, 7, 101);
+color: rgb(	139,0,0 ) !important;
+ box-shadow: 0 4px 16px rgb(	139,0,0 );
  transition: all 0.5s ease;
- background-color:lightgrey;
 }
 
 
