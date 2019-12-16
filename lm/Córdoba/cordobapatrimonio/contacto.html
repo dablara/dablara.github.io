@@ -7,9 +7,10 @@
  <link rel="stylesheet" type="text/css" href="style.css">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     </head>
-    <body bgcolor=#D8D8D8>
+    <body>
       <header>
         <h1 id="arriba">Córdoba Ciudad Patrimonio</h1>
+        <link rel="icon" type="image/png" href="imagen/logo.png" />
       </header>
          <nav>
            <ul>
@@ -18,24 +19,49 @@
              <li><a href="cascohistorico.html">Casco Historico</a></li>
              <li><a href="patios.html">Los patios</a> </li>
              <li><a href="medinazahara.html">Medina Azahara</a></li>
-             <li><a href="recetas.html"> Recetas</a></li>
+             <!--<li><a href="recetas.html"> Recetas</a></li>-->
              <li><a href="contacto.html">Contacto</a></li>
            </ul>
+      <img src="imagen/logo.png" alt="Tutorial HTML" width="10%" height="10%">
 
       </nav>
+      <section>
 
 
-       <article>
             <h2 id="4">Contacto</h2>
-            Si quieres contactar con nostros te dejamos nuestros Twitter
-            <address><a href="https://twitter.com/daniblanotec"><img id="imagen" src="twitter.png" width="60px" height="60px"></a></address>
-        <a href="#top"> <i class="material-icons">arrow_upward</i>
-            <a href="#arriba">Subir</a>
+            <form method="get" action="to.html">
+            <fieldset>
+            <legend> Cuentanos tu problema o consulta</legend>
+            <p>
+            Nombre: <input type="text" name="Nombre" value="" placeholder="Nombre">
+          </p>
+          <p>
+            Apellidos: <input type="text" name="Apellidos" value="" placeholder="Apellidos">
+          </p>
+          <p>
+            Edad: 15-20<input type="radio" name="edad">
+                21-30<input type="radio" name="edad">
+                31-40<input type="radio" name="edad">
+                40+<input type="radio" name="edad">
+          </p>
+          Cuentanos: <br>
+          <textarea name="mensaje">
+          </textarea>
+          <br>
+          <input type="submit" name="enviar" value="Enviar">
 
+
+          </fieldset>
+            </form>
 
 
       	<footer>
   			&copy;Todos los derechos- Daniel Blanco Aranda
+        Si quieres contactar con nostros te dejamos nuestros Twitter
+        <address><a href="https://twitter.com/daniblanotec"><img id="imagen" src="twitter.png" width="60px" height="60px"></a></address>
+        <a href="#top"> <i class="material-icons">arrow_upward</i>
+        <a href="#arriba">Subir</a>
+
   		</footer>
   		<a href="../index.html">Volver a inicio</a>
 

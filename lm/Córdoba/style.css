@@ -17,9 +17,10 @@ li {
 }
 
 li:hover{
-color: rgb(	139,0,0 ) !important;
- box-shadow: 0 4px 16px rgb(	139,0,0 );
- transition: all 0.5s ease;
+  color: rgb(87, 7, 101) !important;
+ box-shadow: 0 4px 16px rgb(87, 7, 101);
+ transition: all 2.0s ease;
+
 }
 
 li{
@@ -30,7 +31,7 @@ li{
 @keyframes slidein {
   from {
     margin-left: 100%;
-    width: 300%
+    width: 200%
   }
 
   to {
