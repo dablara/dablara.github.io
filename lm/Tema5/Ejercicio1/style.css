@@ -1,0 +1,23 @@
+body{
+  width: 500px;
+  margin: 0;
+}
+
+
+p{
+  border:3px solid blue;
+  background-color: aqua;
+  margin: 10px;
+}
+
+
+span{
+  background-color:red;
+  border:1px solid black;
+}
+
+.positioned{
+  position: relative;
+  left:30px;
+  bottom:30px;
+}
