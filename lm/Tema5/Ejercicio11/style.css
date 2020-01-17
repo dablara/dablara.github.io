@@ -1,35 +1,22 @@
-
-
-
-header{
-  margin:0 auto;
-  border: 1px solid;
-  background-color: green;
-
+main,header,section,aside,footer{
+  display: block;
+  margin: 0;
+  padding: 10px;
+  border: 1px solid silver;
+  color: #fffaff;
 }
-
-section{
-  margin: 0 auto;
-  border:1px solid;
-  background-color:purple;
-
-}
-
-aside{
-  margin: 0 auto;
-  border:1px solid;
-  background-color: blue;
-}
- footer{
-   margin:0 auto;
-   border:1px solid;
-   background-color: lightgreen;
- }
-
 @media (min-width: 640px){
   .flex-container{
     display:flex;
   }
+}
+
+main {
+  background: grey;
+}
+
+.header{
+  background: brown;
 }
 
 .hero{
@@ -45,4 +32,7 @@ aside{
   flex:
 }
 
-.flex-cony
+.flex-container{
+
+
+}
