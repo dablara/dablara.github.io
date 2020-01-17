@@ -31,7 +31,14 @@ main {
 }
 
 .sidebar{
-  flex:
+  flex:0 1 320px;
+  border:1px solid #000000;
+  background:#673ab7;
+}
+
+.footer{
+  grid-area:footer;
+  background-color: black;
 }
 
 .flex-container{
