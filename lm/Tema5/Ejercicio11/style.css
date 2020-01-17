@@ -1,0 +1,39 @@
+
+
+
+header{
+  margin:0 auto;
+  border: 1px solid;
+  background-color: green;
+
+}
+
+section{
+  margin: 0 auto;
+  border:1px solid;
+  background-color:purple;
+
+}
+
+aside{
+  margin: 0 auto;
+  border:1px solid;
+  background-color: blue;
+}
+ footer{
+   margin:0 auto;
+   border:1px solid;
+   background-color: lightgreen;
+ }
+
+.content{
+  flex:
+}
+
+.sidebar{
+  flex:
+}
+
+.flex-container{
+  display: flex;
+}

@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+
+}
+
+#grid{
+  display:grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1vw;
+}
+
+#grid > div{
+  font-size: 5vw;
+  padding: .3em;
+  background: green;
+  text-align: center;
+
+}
