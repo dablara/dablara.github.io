@@ -26,14 +26,23 @@ aside{
    background-color: lightgreen;
  }
 
+@media (min-width: 640px){
+  .flex-container{
+    display:flex;
+  }
+}
+
+.hero{
+  background:orange;
+}
 .content{
-  flex:
+  flex:1;
+  background:
+
 }
 
 .sidebar{
   flex:
 }
 
-.flex-container{
-  display: flex;
-}
+.flex-cony
