@@ -5,11 +5,7 @@ main,header,section,aside,footer{
   border: 1px solid silver;
   color: #fffaff;
 }
-@media (min-width: 640px){
-  .flex-container{
-    display:flex;
-  }
-}
+
 
 main {
   background: grey;
@@ -22,9 +18,15 @@ main {
 .hero{
   background:orange;
 }
+
+@media (min-width: 640px){
+  .flex-container{
+    display:flex;
+  }
+}
 .content{
   flex:1;
-  background:
+  background:#129a22;
 
 }
 
