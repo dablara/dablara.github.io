@@ -1,0 +1,54 @@
+.box{
+  display: flex;
+  justify-content:space-between;
+}
+
+#id1{
+  background-color:red;
+  border:5px solid;
+  padding: inherit;
+  height: 150px;
+  width: 150px;
+}
+
+#id2{
+  background-color: green;
+  border:5px solid;
+  padding: inherit;
+  height: 150px;
+  width: 150px;
+}
+
+#id3{
+  background-color: blue;
+  border:5px solid;
+  padding: inherit;
+  height: 150px;
+  width: 150px;
+}
+
+#id4{
+  background-color: yellow;
+  border:5px solid;
+  padding: inherit;
+  height: 150px;
+  width: 150px;
+}
+
+
+#id5{
+  background-color: purple;
+  border:5px solid;
+  padding: inherit;
+  height: 150px;
+  width: 150px;
+}
+
+
+#id6{
+  background-color:lightgreen;
+  border:5px solid;
+  padding: inherit;
+  height: 150px;
+  width: 150px;
+}

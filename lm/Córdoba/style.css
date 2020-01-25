@@ -23,7 +23,7 @@ li:hover{
 
 }
 
-li{
+/**li{
   animation-duration: 5s;
   animation-name: slidein;
 }
@@ -39,6 +39,7 @@ li{
     width: 100%;
   }
 }
+**/
 
 a {
   color: black;
@@ -47,4 +48,11 @@ a {
 
 p{
   text-decoration-color: white;
+}
+
+.box{
+  border:1px solid;
+ padding: inherit;
+ height: 250px;
+ width: 250px;
 }
