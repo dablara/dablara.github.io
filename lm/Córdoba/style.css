@@ -23,23 +23,12 @@ li:hover{
 
 }
 
-/**li{
+li{
   animation-duration: 5s;
   animation-name: slidein;
 }
 
-@keyframes slidein {
-  from {
-    margin-left: 100%;
-    width: 200%
-  }
 
-  to {
-    margin-left: 0%;
-    width: 100%;
-  }
-}
-**/
 
 a {
   color: black;
@@ -48,6 +37,22 @@ a {
 
 p{
   text-decoration-color: white;
+}
+
+#imagen:hover{
+  width: 95px;
+  height: 95px;
+  animation: myAnimation 2s ease infinite alternate forwards;
+animation-duration: 3s;
+}
+
+@keyframes myAnimation {
+  100% {
+    transform:  rotate(360deg);
+
+
+  }
+
 }
 
 .box{
