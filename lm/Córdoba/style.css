@@ -52,7 +52,11 @@ p{
 
 .box{
   border:1px solid;
- padding: inherit;
- height: 250px;
- width: 250px;
+  border-top-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  height: 300px;
+  width: 400px;
+  padding:inherit;
+  background-color:lightblue;
+  align-content: center;
 }
