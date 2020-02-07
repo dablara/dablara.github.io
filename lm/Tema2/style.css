@@ -1,5 +1,5 @@
 body{
-  background-color:#A9A9A9;
+  background-color:#7FFFD4;
 }
 
 ul{
@@ -13,7 +13,7 @@ li {
   display: inline-block;
   border: 1px solid lightgrey;
   padding: 5px;
-  background-color:#DCDCDC; 	
+  background-color:#DCDCDC;
 }
 
 li:hover{
@@ -47,4 +47,16 @@ animation-duration: 3s;
 
   }
 
+}
+
+.box{
+  border:1px solid;
+  border-top-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  height: 400px;
+  width: 500px;
+  padding:inherit;
+  background-color:lightblue;
+  text-align:center;
+  margin:auto;
 }

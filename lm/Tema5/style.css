@@ -49,3 +49,14 @@ animation-duration: 3s;
   }
 
 }
+
+.box{
+  border:1px solid;
+  border-top-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  height: 300px;
+  width: 400px;
+  padding:inherit;
+  background-color:lightblue;
+  align-content: center;
+}
