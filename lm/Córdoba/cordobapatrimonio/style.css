@@ -51,3 +51,14 @@ animation-duration: 3s;
   }
 
 }
+
+.container{
+  display: flex;
+
+}
+
+.container{
+  font-size: 2vw;
+  padding: .3em;
+
+}

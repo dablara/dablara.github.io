@@ -49,6 +49,16 @@ animation-duration: 3s;
 
 }
 
+.container{
+  display: flex;
+}
+.container{
+  .container > div{
+  font-size: 2vw;
+  padding: .5em;
+
+}
+}
 .box{
   border:1px solid;
   border-top-left-radius: 100px;
