@@ -1,5 +1,5 @@
 body{
-  background-color:#7FFFD4;
+  background-color:#C0C0C0;
 }
 
 ul{
@@ -64,9 +64,9 @@ animation-duration: 3s;
   border-top-left-radius: 100px;
   border-bottom-right-radius: 100px;
   height: 370px;
-  width: 600px;
+  width: 800px;
   padding:inherit;
-  background-color:lightblue;
+  background-color:#778899;
   text-align: center;
   margin:auto;
 }
