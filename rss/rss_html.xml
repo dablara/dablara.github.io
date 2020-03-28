@@ -2,11 +2,11 @@
 <rss>
   <channel>
     <title>Daniel Blanco Aranda-Ejercicios de HTML</title>
-    <link>https://github.com/datrix100/datrix100.github.io/tree/master/lm/Tema1</link>
+    <link>https://datrix100.github.io/</link>
     <description>Ejercicio de xml</description>
       <item>
         <title>EJERCICIO. HTML</title>
-        <link>https://github.com/datrix100/datrix100.github.io/tree/master/lm/Tema1</link>
+        <link>https://datrix100.github.io/lm/Tema3/ejercicio1/index.html</link>
         <description>descripcion</description>
       </item>
   </channel>
