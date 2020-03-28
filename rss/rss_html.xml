@@ -1,11 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss>
   <channel>
-    <title>Daniel Blanco Aranda-Ejercicios de HTML</title>
+    <title>Daniel Blanco Aranda-Mi pagina personal</title>
     <link>https://datrix100.github.io/</link>
-    <description>Ejercicio de xml</description>
+    <description>Ejercicios de HTML</description>
+    <item>
+        <title>Tema1-Ejercicio1</title>
+        <link>https://datrix100.github.io/lm/Tema1/ejercicio1/Dani.pdf</link>
+        <description>descripcion</description>
+      </item>
+      
       <item>
-        <title>EJERCICIO. HTML</title>
+        <title>Tema3-Ejercicio 1</title>
         <link>https://datrix100.github.io/lm/Tema3/ejercicio1/index.html</link>
         <description>descripcion</description>
       </item>
