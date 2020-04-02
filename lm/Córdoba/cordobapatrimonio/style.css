@@ -15,10 +15,11 @@ li {
   border: 1px solid lightgrey;
   padding: 5px;
   border-color: black;
+
 }
 
 li:hover{
-color: rgb(	139,0,0 ) !important;
+color: rgb(	367,0,0 ) !important;
  box-shadow: 0 4px 16px rgb(	139,0,0 );
  transition: all 0.5s ease;
 }

@@ -1,5 +1,5 @@
 body{
-  background-color:#A9A9A9;
+  background-color:#C0C0C0;
 
 }
 
@@ -50,13 +50,27 @@ animation-duration: 3s;
 
 }
 
+.container{
+  display: flex;
+}
+.container{
+  .container > div{
+  font-size: 2vw;
+  padding: .5em;
+
+}
+}
 .box{
   border:1px solid;
   border-top-left-radius: 100px;
   border-bottom-right-radius: 100px;
   height: 300px;
-  width: 400px;
+  width: 900px;
   padding:inherit;
-  background-color:lightblue;
-  align-content: center;
+  background-color:#778899;
+  text-align: center;
+  margin:auto;
+  -webkit-box-shadow: 11px -1px 12px 16px rgba(0,0,0,0.75);
+  -moz-box-shadow: 11px -1px 12px 16px rgba(0,0,0,0.75);
+  box-shadow: 6px -1px 19px 16px rgba(0,0,0,0.75);
 }
