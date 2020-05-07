@@ -45,6 +45,10 @@ font-family: cursive;
 animation-duration: 3s;
 }
 
+.responsive{
+  display:flex;
+  flex-direction: rows| row-reverse|column | column-reverse;
+/*
 @keyframes myAnimation {
   100% {
     transform:  rotate(360deg);
@@ -76,7 +80,6 @@ animation-duration: 3s;
     flex-direction:
 
   }
-  }
 }
 
 @media (max-width: 600px){
@@ -86,3 +89,4 @@ animation-duration: 3s;
 
   }
 }
+*/
