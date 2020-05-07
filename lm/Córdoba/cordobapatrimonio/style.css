@@ -53,18 +53,8 @@ animation-duration: 3s;
   }
 
 }
-.responsive{
-  display:flex;
-  flex-direction:rows| row-reverse|column | column-reverse;
 
-  flex-flow: column wrap;
-  order: 6;
-  flex-grow: 4;
-}
 
-.li{
-
-}
 
 @media (max-width: 1024px){
 
@@ -74,14 +64,17 @@ animation-duration: 3s;
 
 @media (max-width:  960px){
   .responsive{
-    flex-direction: row | row-reverse | column | column-reverse;
+    display:flex;
+    flex-direction: rows| row-reverse|column | column-reverse;
+
   }
 
 }
 
 @media (max-width: 600px){
-  body{
+  .responsive{
+    display:flex;
+    flex-direction: rows| row-reverse|column | column-reverse;
 
-}
   }
 }
