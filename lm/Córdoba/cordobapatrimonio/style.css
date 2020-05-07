@@ -58,11 +58,6 @@ animation-duration: 3s;
 
 @media (max-width: 1024px){
 
-  .responsive{
-    display:flex;
-    flex-direction: rows| row-reverse|column | column-reverse;
-
-  }
 
 }
 
@@ -78,10 +73,10 @@ animation-duration: 3s;
 @media (max-width:  960px){
   .responsive{
     display:flex;
-    flex-direction: rows| row-reverse|column | column-reverse;
+    flex-direction:
 
   }
-
+  }
 }
 
 @media (max-width: 600px){
