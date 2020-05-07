@@ -58,8 +58,12 @@ animation-duration: 3s;
 
 @media (max-width: 1024px){
 
+  .responsive{
+    display:flex;
+    flex-direction: rows| row-reverse|column | column-reverse;
+
   }
-}
+
 }
 
 @media (max-width:  960px){
