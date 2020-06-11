@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<personas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ejercicio5.xsd">
+	<persona fecha_nacimiento="1992-02-02">
+		<datos>
+			<nombre>Paquito</nombre>
+			<apellidos>de los claveles</apellidos>
+			<dni>12345678A</dni>
+		</datos>
+		<comentario>Es muy majo</comentario>
+		<forma_pago>
+		  <tarjeta>1234567890</tarjeta>
+		</forma_pago>
+	</persona>
+	<persona>
+		<datos>
+			<nombre>Perico</nombre>
+			<apellidos>de los palotes</apellidos>
+			<dni>87654321B</dni>
+		</datos>
+		<comentario>Está en todos sitios</comentario>
+		<forma_pago>
+    <transferencia>1928-pedelopa</transferencia>
+		</forma_pago>
+	</persona>
+	<persona fecha_nacimiento="2019-12-20">
+		<datos>
+			<nombre>COVID</nombre>
+			<apellidos>diecinueve</apellidos>
+			<dni>19191919C</dni>
+		</datos>
+		<comentario>Viene de Wuhan</comentario>
+				<forma_pago>
+		  <tarjeta>1919191919</tarjeta>
+		</forma_pago>
+	</persona>
+</personas>
