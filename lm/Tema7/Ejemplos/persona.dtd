@@ -1,0 +1,4 @@
+<!ELEMENT persona (nombre,mayor_de_edad,ciudad)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT mayor_de_edad EMPTY>
+<!ELEMENT ciudad (#PCDATA)>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<paises>
+  <pais>
+  <nombre>Francia</nombre>
+<habitantes>60 </habitantes> 
+</pais>
+<pais>
+<nombre>Irlanda</nombre>
+<habitante></habitante>
+</pais>
+<pais>
+<nombre>Brasil</nombre>
+<habitante>180 </habitante>
+</pais>
+</paises>
