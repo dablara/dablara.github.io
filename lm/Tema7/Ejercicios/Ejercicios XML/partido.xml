@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE partidos SYSTEM "ejercicio11-3.dtd">
-<partidos>
-  <partido equipo_local="Nottingham Presa" equipo_visitante="Inter de Mitente" goles_local="0" goles_visitante="1" />
-  <partido equipo_local="Vodka Juniors" equipo_visitante="Sparta da Risa" goles_local="3" goles_visitante="3" />
-  <partido equipo_local="Water de Munich" equipo_visitante="Esteaua es del grifo" goles_local="4" goles_visitante="2" />
-</partidos>

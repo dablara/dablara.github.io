@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<pedidos>
-  <pedido>
-    <cliente>Juan Delgado Martínez</cliente>
-    <contenido>Bicicleta A2023</contenido>
-    <dir_entrega></dir_entrega>
-    <fecha_entrega></fecha_entrega>
-  </pedido>
-</pedidos>
