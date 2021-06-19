@@ -45,7 +45,7 @@ font-family: cursive;
 animation-duration: 3s;
 }
 
-.responsive{
+/*responsive{
   display:flex;
   flex-direction: rows| row-reverse|column | column-reverse;
 /*
