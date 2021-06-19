@@ -10,14 +10,13 @@ ul{
 }
 
 
-li {
+/*li {
   display: inline-block;
   border: 1px solid lightgrey;
   padding: 5px;
   border-color: black;
 
-}
-
+}*/
 li:hover{
 color: rgb(	367,0,0 ) !important;
  box-shadow: 0 4px 16px rgb(	139,0,0 );
