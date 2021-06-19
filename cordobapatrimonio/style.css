@@ -1,22 +1,22 @@
-body{
+/*body{
 background-color:#DCDCDC;
 }
 
 
-/*ul{
+ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-*/
 
-/*li {
+
+li {
   display: inline-block;
   border: 1px solid lightgrey;
   padding: 5px;
   border-color: black;
 
-}*/
+}
 
 li:hover{
 color: rgb(	367,0,0 ) !important;
