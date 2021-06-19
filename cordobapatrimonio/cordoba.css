@@ -2,7 +2,7 @@ body{
 background-color:#DCDCDC;
 }
 
-/*
+
 ul{
   list-style-type: none;
   margin: 0;
@@ -44,7 +44,7 @@ font-family: cursive;
   animation: myAnimation 2s ease infinite alternate forwards;
 animation-duration: 3s;
 }
-
+/*
 responsive{
   display:flex;
   flex-direction: rows| row-reverse|column | column-reverse;
